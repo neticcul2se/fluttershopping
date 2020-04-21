@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "219770415722",
+    "firebase_url": "https://fluttershopping-de58a.firebaseio.com",
+    "project_id": "fluttershopping-de58a",
+    "storage_bucket": "fluttershopping-de58a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219770415722:android:ffd82428b50d9d8543b813",
+        "android_client_info": {
+          "package_name": "com.wachirastudio.com.paeshoppingmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219770415722-hfjf1c3cqdv38uvnrtqjfun1p8nts1de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMi1GRE2Z3KOUl51x_-u0_w--gNW9YDD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219770415722-hfjf1c3cqdv38uvnrtqjfun1p8nts1de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
